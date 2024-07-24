@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="in"
+                 name="Instance Name"
+                 start-page="starter.md">
+
+    <toc-element topic="starter.md"/>
+    <toc-element toc-title="Lore Generator">
+        <toc-element topic="Lore Generator.md"/>
+        <toc-element topic="9. The Body.md"/>
+        <toc-element topic="8. The Mind.md"/>
+        <toc-element topic="7. Love.md"/>
+        <toc-element topic="6. Parents and Family.md"/>
+        <toc-element topic="5. Race.md"/>
+        <toc-element topic="4. Class 2.md"/>
+        <toc-element topic="3. Class 1.md"/>
+        <toc-element topic="2. Age.md"/>
+        <toc-element topic="16. Beyond the First Level.md"/>
+        <toc-element topic="15. Backstory.md"/>
+        <toc-element topic="14. Alignment Scale.md"/>
+        <toc-element topic="13. Food and Drink.md"/>
+        <toc-element topic="12. Equipment.md"/>
+        <toc-element topic="11. Spell Caster.md"/>
+        <toc-element topic="10. The Armour And Weapons.md"/>
+        <toc-element topic="1. Core.md"/>
+    </toc-element>
+</instance-profile>
